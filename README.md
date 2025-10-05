@@ -13,4 +13,8 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Plan on improving the project
 
-Add your ideas here :)
+To enhance the customers transactions, I would add more personalization features.
+
+1 membership services.
+2 order recommendations based on customers previous orders.
+3 let user change the theme of the website (light or dark mode).
