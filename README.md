@@ -19,5 +19,3 @@ To enhance the customers transactions, I would add more personalization features
 2. order recommendations based on customers previous orders.
 3. let user change the theme of the website (light or dark mode).
 
-[Visit my website]
-(https://mwaters-design.github.io/se_project_coffeeshop)
